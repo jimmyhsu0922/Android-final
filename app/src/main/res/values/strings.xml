@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Week10Activity</string>
+    <string name="sex">性別：</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="hight">身高</string>
+    <string name="app_name2">星座</string>
+    <string name="birthday_hint">請輸入您的生日</string>
+    <string name="month_hint">月</string>
+    <string name="day_hint">日</string>
+    <string name="btn_hint">得知星座</string>
+    <string name="result_hint">您的星座是：</string>
+    <string name="input_error">錯誤的月份或日期</string>
+    <string name="return_text">設定生日</string>
+    <string name="stars_0001">白羊座</string>
+    <string name="stars_0002">金牛座</string>
+    <string name="stars_0003">雙子座</string>
+    <string name="stars_0004">巨蟹座</string>
+    <string name="stars_0005">獅子座</string>
+    <string name="stars_0006">處女座</string>
+    <string name="stars_0007">天秤座</string>
+    <string name="stars_0008">天蠍座</string>
+    <string name="stars_0009">射手座</string>
+    <string name="stars_0010">摩羯座</string>
+    <string name="stars_0011">寶瓶座</string>
+    <string name="stars_0012">雙魚座</string>
+</resources>
