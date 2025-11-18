@@ -1,4 +1,4 @@
-// MainActivity.kt
+//yoyoyo 嗨今天過得好嗎
 package com.example.week10activity
 
 import android.os.Bundle
